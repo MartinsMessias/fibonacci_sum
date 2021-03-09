@@ -1,5 +1,11 @@
 # Fibonacci sum
 
+## Install
+
+```
+pip install fibonacci_sum
+```
+
 ## How to use
 
 ```
